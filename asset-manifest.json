@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/fashionfe/static/css/main.54f6c324.chunk.css",
+    "main.js": "/fashionfe/static/js/main.ec3f4467.chunk.js",
+    "main.js.map": "/fashionfe/static/js/main.ec3f4467.chunk.js.map",
+    "runtime-main.js": "/fashionfe/static/js/runtime-main.4a67db30.js",
+    "runtime-main.js.map": "/fashionfe/static/js/runtime-main.4a67db30.js.map",
+    "static/js/2.f1eecb45.chunk.js": "/fashionfe/static/js/2.f1eecb45.chunk.js",
+    "static/js/2.f1eecb45.chunk.js.map": "/fashionfe/static/js/2.f1eecb45.chunk.js.map",
+    "index.html": "/fashionfe/index.html",
+    "precache-manifest.7a81adb0d1a548ca64e05543ab4cf0dd.js": "/fashionfe/precache-manifest.7a81adb0d1a548ca64e05543ab4cf0dd.js",
+    "service-worker.js": "/fashionfe/service-worker.js",
+    "static/css/main.54f6c324.chunk.css.map": "/fashionfe/static/css/main.54f6c324.chunk.css.map",
+    "static/js/2.f1eecb45.chunk.js.LICENSE.txt": "/fashionfe/static/js/2.f1eecb45.chunk.js.LICENSE.txt",
+    "static/media/abaya5.jpg": "/fashionfe/static/media/abaya5.dfaf153a.jpg",
+    "static/media/abaya6.jpg": "/fashionfe/static/media/abaya6.31565960.jpg",
+    "static/media/abaya7.jpg": "/fashionfe/static/media/abaya7.fb51ff39.jpg",
+    "static/media/background.png": "/fashionfe/static/media/background.89b58cdb.png",
+    "static/media/formbg.png": "/fashionfe/static/media/formbg.17391b8d.png",
+    "static/media/newsletterbg.png": "/fashionfe/static/media/newsletterbg.bfbc82a0.png",
+    "static/media/sbgbackground2.png": "/fashionfe/static/media/sbgbackground2.1d4c05bb.png",
+    "static/media/svgbg3.png": "/fashionfe/static/media/svgbg3.8785f31a.png",
+    "static/media/svgcut3.png": "/fashionfe/static/media/svgcut3.daec9fda.png",
+    "static/media/svgcutdress.png": "/fashionfe/static/media/svgcutdress.390e1682.png",
+    "static/media/svgcutmiddle.png": "/fashionfe/static/media/svgcutmiddle.b66fcc79.png",
+    "static/media/svgpurple.png": "/fashionfe/static/media/svgpurple.2afee0e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a67db30.js",
+    "static/js/2.f1eecb45.chunk.js",
+    "static/css/main.54f6c324.chunk.css",
+    "static/js/main.ec3f4467.chunk.js"
+  ]
+}
