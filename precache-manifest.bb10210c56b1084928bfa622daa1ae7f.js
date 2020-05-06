@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ba67c8f9b220c0d23322a9062a30088",
+    "revision": "cadadb0ecb88dace14cf9795a57aa9ad",
     "url": "/fashionfe/index.html"
   },
   {
-    "revision": "1a4465e92a3e8d994559",
+    "revision": "a9997801cf3d3d5a90d2",
     "url": "/fashionfe/static/css/main.54f6c324.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fashionfe/static/js/2.f1eecb45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a4465e92a3e8d994559",
-    "url": "/fashionfe/static/js/main.ec3f4467.chunk.js"
+    "revision": "a9997801cf3d3d5a90d2",
+    "url": "/fashionfe/static/js/main.54435369.chunk.js"
   },
   {
     "revision": "0860b416e934e796028c",

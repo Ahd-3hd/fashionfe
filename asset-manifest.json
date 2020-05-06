@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fashionfe/static/css/main.54f6c324.chunk.css",
-    "main.js": "/fashionfe/static/js/main.ec3f4467.chunk.js",
-    "main.js.map": "/fashionfe/static/js/main.ec3f4467.chunk.js.map",
+    "main.js": "/fashionfe/static/js/main.54435369.chunk.js",
+    "main.js.map": "/fashionfe/static/js/main.54435369.chunk.js.map",
     "runtime-main.js": "/fashionfe/static/js/runtime-main.4a67db30.js",
     "runtime-main.js.map": "/fashionfe/static/js/runtime-main.4a67db30.js.map",
     "static/js/2.f1eecb45.chunk.js": "/fashionfe/static/js/2.f1eecb45.chunk.js",
     "static/js/2.f1eecb45.chunk.js.map": "/fashionfe/static/js/2.f1eecb45.chunk.js.map",
     "index.html": "/fashionfe/index.html",
-    "precache-manifest.7a81adb0d1a548ca64e05543ab4cf0dd.js": "/fashionfe/precache-manifest.7a81adb0d1a548ca64e05543ab4cf0dd.js",
+    "precache-manifest.bb10210c56b1084928bfa622daa1ae7f.js": "/fashionfe/precache-manifest.bb10210c56b1084928bfa622daa1ae7f.js",
     "service-worker.js": "/fashionfe/service-worker.js",
     "static/css/main.54f6c324.chunk.css.map": "/fashionfe/static/css/main.54f6c324.chunk.css.map",
     "static/js/2.f1eecb45.chunk.js.LICENSE.txt": "/fashionfe/static/js/2.f1eecb45.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.4a67db30.js",
     "static/js/2.f1eecb45.chunk.js",
     "static/css/main.54f6c324.chunk.css",
-    "static/js/main.ec3f4467.chunk.js"
+    "static/js/main.54435369.chunk.js"
   ]
 }
